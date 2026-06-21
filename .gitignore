@@ -1,3 +1,5 @@
 __pycache__/
 *ju.py 
 .ipynb_checkpoints/
+add_consulados_geojson.py
+scrape_elecciones.py
