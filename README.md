@@ -1,4 +1,8 @@
-# Statistics on Colombia — Chart Source Code
+<p align="center">
+  <img src="logo/logo_text.svg" alt="Statistics on Colombia" width="400">
+</p>
+
+#  Chart Source Code
  
 This repository contains the code used to generate the charts published on the Instagram account [@statisticscolombia](https://www.instagram.com/statisticscolombia/).
  
@@ -31,5 +35,5 @@ The repository is organized by month, then by week. Each week contains a script 
  
 ## Contact
  
-Found an error, a mistake, or have a suggestion? Reach out at [statistics-colombia@proton.me](mailto:statistics-colombia@proton.me).
+Found an error or have a suggestion? Reach out at [statistics-colombia@proton.me](mailto:statistics-colombia@proton.me).
 
