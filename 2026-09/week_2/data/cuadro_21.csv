@@ -1,0 +1,865 @@
+Fecha,Departamento,Total_hogares,Suficiencia_ingreso,Hogares,Porcentaje
+2018,Total nacional,15403,No alcanzan para cubrir los gastos mínimos,5763,37.41310253
+2018,Total nacional,15403,Alcanzan para cubrir los gastos mínimos,8026,52.1061401
+2018,Total nacional,15403,Cubren más que los gastos mínimos,1614,10.48075737
+2018,Cabecera,11742,No alcanzan para cubrir los gastos mínimos,3819,32.52241612
+2018,Cabecera,11742,Alcanzan para cubrir los gastos mínimos,6384,54.365117
+2018,Cabecera,11742,Cubren más que los gastos mínimos,1540,13.11246688
+2018,Centros poblados y rural disperso,3660,No alcanzan para cubrir los gastos mínimos,1944,53.10327055
+2018,Centros poblados y rural disperso,3660,Alcanzan para cubrir los gastos mínimos,1642,44.85895142
+2018,Centros poblados y rural disperso,3660,Cubren más que los gastos mínimos,75,2.03777803
+2018,Amazonas,22,No alcanzan para cubrir los gastos mínimos,8,34.82451816
+2018,Amazonas,22,Alcanzan para cubrir los gastos mínimos,13,59.10099405
+2018,Amazonas,22,Cubren más que los gastos mínimos,1,6.07448778
+2018,Antioquia,2107,No alcanzan para cubrir los gastos mínimos,628,29.78646377
+2018,Antioquia,2107,Alcanzan para cubrir los gastos mínimos,1178,55.89012181
+2018,Antioquia,2107,Cubren más que los gastos mínimos,302,14.32341443
+2018,Arauca,92,No alcanzan para cubrir los gastos mínimos,42,45.87078237
+2018,Arauca,92,Alcanzan para cubrir los gastos mínimos,47,50.46397067
+2018,Arauca,92,Cubren más que los gastos mínimos,3,3.66524696
+2018,Atlántico,647,No alcanzan para cubrir los gastos mínimos,274,42.41955537
+2018,Atlántico,647,Alcanzan para cubrir los gastos mínimos,324,50.02242667
+2018,Atlántico,647,Cubren más que los gastos mínimos,49,7.55801796
+2018,Bogotá D.C.,2601,No alcanzan para cubrir los gastos mínimos,578,22.23090972
+2018,Bogotá D.C.,2601,Alcanzan para cubrir los gastos mínimos,1414,54.37147981
+2018,Bogotá D.C.,2601,Cubren más que los gastos mínimos,609,23.39761046
+2018,Bolívar,582,No alcanzan para cubrir los gastos mínimos,331,56.88911628
+2018,Bolívar,582,Alcanzan para cubrir los gastos mínimos,229,39.36364284
+2018,Bolívar,582,Cubren más que los gastos mínimos,22,3.74724088
+2018,Boyacá,424,No alcanzan para cubrir los gastos mínimos,150,35.28979563
+2018,Boyacá,424,Alcanzan para cubrir los gastos mínimos,243,57.36542905
+2018,Boyacá,424,Cubren más que los gastos mínimos,31,7.34477532
+2018,Caldas,340,No alcanzan para cubrir los gastos mínimos,117,34.51067502
+2018,Caldas,340,Alcanzan para cubrir los gastos mínimos,192,56.60675005
+2018,Caldas,340,Cubren más que los gastos mínimos,30,8.88257493
+2018,Caquetá,133,No alcanzan para cubrir los gastos mínimos,54,40.76752604
+2018,Caquetá,133,Alcanzan para cubrir los gastos mínimos,74,55.73813729
+2018,Caquetá,133,Cubren más que los gastos mínimos,5,3.49433667
+2018,Casanare,140,No alcanzan para cubrir los gastos mínimos,54,38.97679602
+2018,Casanare,140,Alcanzan para cubrir los gastos mínimos,78,55.66418266
+2018,Casanare,140,Cubren más que los gastos mínimos,7,5.35902132
+2018,Cauca,456,No alcanzan para cubrir los gastos mínimos,213,46.76733926
+2018,Cauca,456,Alcanzan para cubrir los gastos mínimos,227,49.71116779
+2018,Cauca,456,Cubren más que los gastos mínimos,16,3.52149295
+2018,Cesar,341,No alcanzan para cubrir los gastos mínimos,163,47.87505212
+2018,Cesar,341,Alcanzan para cubrir los gastos mínimos,166,48.86603214
+2018,Cesar,341,Cubren más que los gastos mínimos,11,3.25891574
+2018,Córdoba,495,No alcanzan para cubrir los gastos mínimos,266,53.84781045
+2018,Córdoba,495,Alcanzan para cubrir los gastos mínimos,205,41.45500239
+2018,Córdoba,495,Cubren más que los gastos mínimos,23,4.69718716
+2018,Cundinamarca,974,No alcanzan para cubrir los gastos mínimos,325,33.3791495
+2018,Cundinamarca,974,Alcanzan para cubrir los gastos mínimos,571,58.5735358
+2018,Cundinamarca,974,Cubren más que los gastos mínimos,78,8.04731471
+2018,Chocó,165,No alcanzan para cubrir los gastos mínimos,104,62.94692058
+2018,Chocó,165,Alcanzan para cubrir los gastos mínimos,59,36.03864365
+2018,Chocó,165,Cubren más que los gastos mínimos,2,1.01443577
+2018,Guainía,13,No alcanzan para cubrir los gastos mínimos,8,60.45110282
+2018,Guainía,13,Alcanzan para cubrir los gastos mínimos,5,35.39391452
+2018,Guainía,13,Cubren más que los gastos mínimos,1,4.15498266
+2018,Guaviare,28,No alcanzan para cubrir los gastos mínimos,13,45.83904989
+2018,Guaviare,28,Alcanzan para cubrir los gastos mínimos,14,49.92806097
+2018,Guaviare,28,Cubren más que los gastos mínimos,1,4.23288914
+2018,Huila,349,No alcanzan para cubrir los gastos mínimos,139,39.78724579
+2018,Huila,349,Alcanzan para cubrir los gastos mínimos,195,55.87545822
+2018,Huila,349,Cubren más que los gastos mínimos,15,4.33729599
+2018,La Guajira,258,No alcanzan para cubrir los gastos mínimos,164,63.54175525
+2018,La Guajira,258,Alcanzan para cubrir los gastos mínimos,92,35.42293468
+2018,La Guajira,258,Cubren más que los gastos mínimos,3,1.03531006
+2018,Magdalena,366,No alcanzan para cubrir los gastos mínimos,198,54.18728616
+2018,Magdalena,366,Alcanzan para cubrir los gastos mínimos,154,41.967325
+2018,Magdalena,366,Cubren más que los gastos mínimos,14,3.84538884
+2018,Meta,344,No alcanzan para cubrir los gastos mínimos,113,32.90909275
+2018,Meta,344,Alcanzan para cubrir los gastos mínimos,198,57.65037707
+2018,Meta,344,Cubren más que los gastos mínimos,32,9.44053018
+2018,Nariño,510,No alcanzan para cubrir los gastos mínimos,302,59.15610611
+2018,Nariño,510,Alcanzan para cubrir los gastos mínimos,188,36.87382524
+2018,Nariño,510,Cubren más que los gastos mínimos,20,3.97006865
+2018,Norte de Santander,460,No alcanzan para cubrir los gastos mínimos,211,45.92337853
+2018,Norte de Santander,460,Alcanzan para cubrir los gastos mínimos,227,49.38699904
+2018,Norte de Santander,460,Cubren más que los gastos mínimos,22,4.68962243
+2018,Putumayo,117,No alcanzan para cubrir los gastos mínimos,69,58.8515951
+2018,Putumayo,117,Alcanzan para cubrir los gastos mínimos,46,39.12182705
+2018,Putumayo,117,Cubren más que los gastos mínimos,2,2.02657785
+2018,Quindío,190,No alcanzan para cubrir los gastos mínimos,62,32.39652283
+2018,Quindío,190,Alcanzan para cubrir los gastos mínimos,111,58.62308926
+2018,Quindío,190,Cubren más que los gastos mínimos,17,8.98038791
+2018,Risaralda,325,No alcanzan para cubrir los gastos mínimos,106,32.74974942
+2018,Risaralda,325,Alcanzan para cubrir los gastos mínimos,188,57.93541696
+2018,Risaralda,325,Cubren más que los gastos mínimos,30,9.31483362
+2018,San Andrés,16,No alcanzan para cubrir los gastos mínimos,4,26.35350923
+2018,San Andrés,16,Alcanzan para cubrir los gastos mínimos,10,59.29814195
+2018,San Andrés,16,Cubren más que los gastos mínimos,2,14.34834882
+2018,Santander,714,No alcanzan para cubrir los gastos mínimos,227,31.82866563
+2018,Santander,714,Alcanzan para cubrir los gastos mínimos,430,60.24570401
+2018,Santander,714,Cubren más que los gastos mínimos,57,7.92563037
+2018,Sucre,247,No alcanzan para cubrir los gastos mínimos,158,63.74193058
+2018,Sucre,247,Alcanzan para cubrir los gastos mínimos,82,33.21019479
+2018,Sucre,247,Cubren más que los gastos mínimos,8,3.04787463
+2018,Tolima,444,No alcanzan para cubrir los gastos mínimos,183,41.20314717
+2018,Tolima,444,Alcanzan para cubrir los gastos mínimos,236,53.2025674
+2018,Tolima,444,Cubren más que los gastos mínimos,25,5.59428543
+2018,Valle,1460,No alcanzan para cubrir los gastos mínimos,472,32.35792796
+2018,Valle,1460,Alcanzan para cubrir los gastos mínimos,813,55.68933878
+2018,Valle,1460,Cubren más que los gastos mínimos,174,11.95273326
+2018,Vaupés,9,No alcanzan para cubrir los gastos mínimos,6,68.54098586
+2018,Vaupés,9,Alcanzan para cubrir los gastos mínimos,3,28.42326012
+2018,Vaupés,9,Cubren más que los gastos mínimos,0,3.03575403
+2018,Vichada,31,No alcanzan para cubrir los gastos mínimos,17,55.44453963
+2018,Vichada,31,Alcanzan para cubrir los gastos mínimos,13,42.31334702
+2018,Vichada,31,Cubren más que los gastos mínimos,1,2.24211335
+2019,Total nacional,15999,No alcanzan para cubrir los gastos mínimos,6104,38.15068243
+2019,Total nacional,15999,Alcanzan para cubrir los gastos mínimos,8562,53.51305434
+2019,Total nacional,15999,Cubren más que los gastos mínimos,1334,8.33626323
+2019,Cabecera,12221,No alcanzan para cubrir los gastos mínimos,4075,33.33939437
+2019,Cabecera,12221,Alcanzan para cubrir los gastos mínimos,6891,56.38516141
+2019,Cabecera,12221,Cubren más que los gastos mínimos,1256,10.27544422
+2019,Centros poblados y rural disperso,3778,No alcanzan para cubrir los gastos mínimos,2029,53.71529498
+2019,Centros poblados y rural disperso,3778,Alcanzan para cubrir los gastos mínimos,1671,44.22173086
+2019,Centros poblados y rural disperso,3778,Cubren más que los gastos mínimos,78,2.06297416
+2019,Amazonas,22,No alcanzan para cubrir los gastos mínimos,7,33.39773831
+2019,Amazonas,22,Alcanzan para cubrir los gastos mínimos,14,62.16954501
+2019,Amazonas,22,Cubren más que los gastos mínimos,1,4.43271668
+2019,Antioquia,2133,No alcanzan para cubrir los gastos mínimos,776,36.37522438
+2019,Antioquia,2133,Alcanzan para cubrir los gastos mínimos,1171,54.92463639
+2019,Antioquia,2133,Cubren más que los gastos mínimos,186,8.70013923
+2019,Arauca,103,No alcanzan para cubrir los gastos mínimos,43,41.70389924
+2019,Arauca,103,Alcanzan para cubrir los gastos mínimos,56,54.623115
+2019,Arauca,103,Cubren más que los gastos mínimos,4,3.67298576
+2019,Atlántico,679,No alcanzan para cubrir los gastos mínimos,300,44.11671213
+2019,Atlántico,679,Alcanzan para cubrir los gastos mínimos,342,50.3896186
+2019,Atlántico,679,Cubren más que los gastos mínimos,37,5.49366928
+2019,Bogotá D.C.,2692,No alcanzan para cubrir los gastos mínimos,700,25.99165504
+2019,Bogotá D.C.,2692,Alcanzan para cubrir los gastos mínimos,1553,57.70308335
+2019,Bogotá D.C.,2692,Cubren más que los gastos mínimos,439,16.30526162
+2019,Bolívar,601,No alcanzan para cubrir los gastos mínimos,373,61.94513554
+2019,Bolívar,601,Alcanzan para cubrir los gastos mínimos,211,35.05272271
+2019,Bolívar,601,Cubren más que los gastos mínimos,18,3.00214175
+2019,Boyacá,447,No alcanzan para cubrir los gastos mínimos,157,34.99984554
+2019,Boyacá,447,Alcanzan para cubrir los gastos mínimos,252,56.33463147
+2019,Boyacá,447,Cubren más que los gastos mínimos,39,8.66552299
+2019,Caldas,350,No alcanzan para cubrir los gastos mínimos,111,31.67441284
+2019,Caldas,350,Alcanzan para cubrir los gastos mínimos,201,57.35359841
+2019,Caldas,350,Cubren más que los gastos mínimos,38,10.97198875
+2019,Caquetá,134,No alcanzan para cubrir los gastos mínimos,53,39.72294626
+2019,Caquetá,134,Alcanzan para cubrir los gastos mínimos,78,58.04400018
+2019,Caquetá,134,Cubren más que los gastos mínimos,3,2.23305356
+2019,Casanare,146,No alcanzan para cubrir los gastos mínimos,64,43.76695997
+2019,Casanare,146,Alcanzan para cubrir los gastos mínimos,77,53.01357957
+2019,Casanare,146,Cubren más que los gastos mínimos,5,3.21946046
+2019,Cauca,481,No alcanzan para cubrir los gastos mínimos,237,49.39712072
+2019,Cauca,481,Alcanzan para cubrir los gastos mínimos,228,47.34630733
+2019,Cauca,481,Cubren más que los gastos mínimos,16,3.25657194
+2019,Cesar,365,No alcanzan para cubrir los gastos mínimos,168,46.08711701
+2019,Cesar,365,Alcanzan para cubrir los gastos mínimos,185,50.48791443
+2019,Cesar,365,Cubren más que los gastos mínimos,13,3.42496856
+2019,Córdoba,510,No alcanzan para cubrir los gastos mínimos,228,44.6709535
+2019,Córdoba,510,Alcanzan para cubrir los gastos mínimos,244,47.95424439
+2019,Córdoba,510,Cubren más que los gastos mínimos,38,7.37480211
+2019,Cundinamarca,1054,No alcanzan para cubrir los gastos mínimos,364,34.57513196
+2019,Cundinamarca,1054,Alcanzan para cubrir los gastos mínimos,614,58.29286522
+2019,Cundinamarca,1054,Cubren más que los gastos mínimos,75,7.13200282
+2019,Chocó,170,No alcanzan para cubrir los gastos mínimos,93,54.57041328
+2019,Chocó,170,Alcanzan para cubrir los gastos mínimos,73,43.12954871
+2019,Chocó,170,Cubren más que los gastos mínimos,4,2.30003802
+2019,Guainía,14,No alcanzan para cubrir los gastos mínimos,8,54.54500849
+2019,Guainía,14,Alcanzan para cubrir los gastos mínimos,6,41.1734579
+2019,Guainía,14,Cubren más que los gastos mínimos,1,4.28153361
+2019,Guaviare,31,No alcanzan para cubrir los gastos mínimos,16,52.12665685
+2019,Guaviare,31,Alcanzan para cubrir los gastos mínimos,13,44.07373518
+2019,Guaviare,31,Cubren más que los gastos mínimos,1,3.79960797
+2019,Huila,351,No alcanzan para cubrir los gastos mínimos,134,38.18740333
+2019,Huila,351,Alcanzan para cubrir los gastos mínimos,198,56.43147641
+2019,Huila,351,Cubren más que los gastos mínimos,19,5.38112026
+2019,La Guajira,282,No alcanzan para cubrir los gastos mínimos,189,67.10210533
+2019,La Guajira,282,Alcanzan para cubrir los gastos mínimos,86,30.47922208
+2019,La Guajira,282,Cubren más que los gastos mínimos,7,2.41867258
+2019,Magdalena,396,No alcanzan para cubrir los gastos mínimos,222,56.11917046
+2019,Magdalena,396,Alcanzan para cubrir los gastos mínimos,160,40.26682554
+2019,Magdalena,396,Cubren más que los gastos mínimos,14,3.614004
+2019,Meta,354,No alcanzan para cubrir los gastos mínimos,109,30.8391424
+2019,Meta,354,Alcanzan para cubrir los gastos mínimos,217,61.29424861
+2019,Meta,354,Cubren más que los gastos mínimos,28,7.86660899
+2019,Nariño,538,No alcanzan para cubrir los gastos mínimos,270,50.24616967
+2019,Nariño,538,Alcanzan para cubrir los gastos mínimos,246,45.74018698
+2019,Nariño,538,Cubren más que los gastos mínimos,22,4.01364335
+2019,Norte de Santander,476,No alcanzan para cubrir los gastos mínimos,186,38.97130405
+2019,Norte de Santander,476,Alcanzan para cubrir los gastos mínimos,263,55.19289145
+2019,Norte de Santander,476,Cubren más que los gastos mínimos,28,5.8358045
+2019,Putumayo,125,No alcanzan para cubrir los gastos mínimos,64,50.83933757
+2019,Putumayo,125,Alcanzan para cubrir los gastos mínimos,59,47.04856466
+2019,Putumayo,125,Cubren más que los gastos mínimos,3,2.11209777
+2019,Quindío,195,No alcanzan para cubrir los gastos mínimos,55,28.42457967
+2019,Quindío,195,Alcanzan para cubrir los gastos mínimos,118,60.6517131
+2019,Quindío,195,Cubren más que los gastos mínimos,21,10.92370723
+2019,Risaralda,335,No alcanzan para cubrir los gastos mínimos,85,25.24257497
+2019,Risaralda,335,Alcanzan para cubrir los gastos mínimos,217,64.87176732
+2019,Risaralda,335,Cubren más que los gastos mínimos,33,9.88565771
+2019,San Andrés,15,No alcanzan para cubrir los gastos mínimos,3,19.36058192
+2019,San Andrés,15,Alcanzan para cubrir los gastos mínimos,10,65.73527644
+2019,San Andrés,15,Cubren más que los gastos mínimos,2,14.90414164
+2019,Santander,738,No alcanzan para cubrir los gastos mínimos,258,34.94453971
+2019,Santander,738,Alcanzan para cubrir los gastos mínimos,422,57.13445778
+2019,Santander,738,Cubren más que los gastos mínimos,58,7.92100252
+2019,Sucre,271,No alcanzan para cubrir los gastos mínimos,161,59.439598
+2019,Sucre,271,Alcanzan para cubrir los gastos mínimos,104,38.23806953
+2019,Sucre,271,Cubren más que los gastos mínimos,6,2.32233247
+2019,Tolima,479,No alcanzan para cubrir los gastos mínimos,198,41.26261046
+2019,Tolima,479,Alcanzan para cubrir los gastos mínimos,247,51.6100289
+2019,Tolima,479,Cubren más que los gastos mínimos,34,7.12736064
+2019,Valle,1472,No alcanzan para cubrir los gastos mínimos,447,30.37959195
+2019,Valle,1472,Alcanzan para cubrir los gastos mínimos,883,60.00292145
+2019,Valle,1472,Cubren más que los gastos mínimos,142,9.6174866
+2019,Vaupés,10,No alcanzan para cubrir los gastos mínimos,6,56.66476854
+2019,Vaupés,10,Alcanzan para cubrir los gastos mínimos,4,42.53381559
+2019,Vaupés,10,Cubren más que los gastos mínimos,0,0.80141587
+2019,Vichada,31,No alcanzan para cubrir los gastos mínimos,21,67.66115194
+2019,Vichada,31,Alcanzan para cubrir los gastos mínimos,9,30.25940428
+2019,Vichada,31,Cubren más que los gastos mínimos,1,2.07944379
+2020,Total nacional,16417,No alcanzan para cubrir los gastos mínimos,6618,40.3109694
+2020,Total nacional,16417,Alcanzan para cubrir los gastos mínimos,8431,51.3543999
+2020,Total nacional,16417,Cubren más que los gastos mínimos,1368,8.33463067
+2020,Cabecera,12551,No alcanzan para cubrir los gastos mínimos,4546,36.2179697
+2020,Cabecera,12551,Alcanzan para cubrir los gastos mínimos,6708,53.4421141
+2020,Cabecera,12551,Cubren más que los gastos mínimos,1298,10.3399162
+2020,Centros poblados y rural disperso,3865,No alcanzan para cubrir los gastos mínimos,2072,53.6025612
+2020,Centros poblados y rural disperso,3865,Alcanzan para cubrir los gastos mínimos,1723,44.5747648
+2020,Centros poblados y rural disperso,3865,Cubren más que los gastos mínimos,70,1.82267402
+2020,Amazonas,25,No alcanzan para cubrir los gastos mínimos,13,49.7601768
+2020,Amazonas,25,Alcanzan para cubrir los gastos mínimos,12,45.8883279
+2020,Amazonas,25,Cubren más que los gastos mínimos,1,4.35149527
+2020,Antioquia,2180,No alcanzan para cubrir los gastos mínimos,692,31.7524533
+2020,Antioquia,2180,Alcanzan para cubrir los gastos mínimos,1302,59.7345671
+2020,Antioquia,2180,Cubren más que los gastos mínimos,186,8.51297963
+2020,Arauca,108,No alcanzan para cubrir los gastos mínimos,49,45.3468197
+2020,Arauca,108,Alcanzan para cubrir los gastos mínimos,56,51.5129528
+2020,Arauca,108,Cubren más que los gastos mínimos,3,3.14022751
+2020,Atlántico,720,No alcanzan para cubrir los gastos mínimos,294,40.8938879
+2020,Atlántico,720,Alcanzan para cubrir los gastos mínimos,377,52.3414859
+2020,Atlántico,720,Cubren más que los gastos mínimos,49,6.76462614
+2020,Bogotá D.C.,2692,No alcanzan para cubrir los gastos mínimos,829,30.8095524
+2020,Bogotá D.C.,2692,Alcanzan para cubrir los gastos mínimos,1311,48.7141203
+2020,Bogotá D.C.,2692,Cubren más que los gastos mínimos,551,20.4763273
+2020,Bolívar,656,No alcanzan para cubrir los gastos mínimos,409,62.3683143
+2020,Bolívar,656,Alcanzan para cubrir los gastos mínimos,218,33.2203475
+2020,Bolívar,656,Cubren más que los gastos mínimos,29,4.41133816
+2020,Boyacá,423,No alcanzan para cubrir los gastos mínimos,155,36.5683242
+2020,Boyacá,423,Alcanzan para cubrir los gastos mínimos,247,58.4350182
+2020,Boyacá,423,Cubren más que los gastos mínimos,21,4.99665756
+2020,Caldas,367,No alcanzan para cubrir los gastos mínimos,115,31.4179851
+2020,Caldas,367,Alcanzan para cubrir los gastos mínimos,218,59.5995749
+2020,Caldas,367,Cubren más que los gastos mínimos,33,8.98243998
+2020,Caquetá,131,No alcanzan para cubrir los gastos mínimos,68,51.9701221
+2020,Caquetá,131,Alcanzan para cubrir los gastos mínimos,61,46.2188071
+2020,Caquetá,131,Cubren más que los gastos mínimos,2,1.81107074
+2020,Casanare,148,No alcanzan para cubrir los gastos mínimos,71,48.2447023
+2020,Casanare,148,Alcanzan para cubrir los gastos mínimos,71,47.7566145
+2020,Casanare,148,Cubren más que los gastos mínimos,6,3.99868311
+2020,Cauca,480,No alcanzan para cubrir los gastos mínimos,243,50.6934357
+2020,Cauca,480,Alcanzan para cubrir los gastos mínimos,225,46.9260687
+2020,Cauca,480,Cubren más que los gastos mínimos,11,2.38049557
+2020,Cesar,376,No alcanzan para cubrir los gastos mínimos,213,56.8202114
+2020,Cesar,376,Alcanzan para cubrir los gastos mínimos,155,41.1375762
+2020,Cesar,376,Cubren más que los gastos mínimos,8,2.04221237
+2020,Córdoba,532,No alcanzan para cubrir los gastos mínimos,285,53.4575861
+2020,Córdoba,532,Alcanzan para cubrir los gastos mínimos,214,40.1412278
+2020,Córdoba,532,Cubren más que los gastos mínimos,34,6.40118611
+2020,Cundinamarca,1100,No alcanzan para cubrir los gastos mínimos,359,32.6212201
+2020,Cundinamarca,1100,Alcanzan para cubrir los gastos mínimos,675,61.4065241
+2020,Cundinamarca,1100,Cubren más que los gastos mínimos,66,5.9722558
+2020,Chocó,182,No alcanzan para cubrir los gastos mínimos,110,60.2517294
+2020,Chocó,182,Alcanzan para cubrir los gastos mínimos,71,38.9837035
+2020,Chocó,182,Cubren más que los gastos mínimos,1,0.764567014
+2020,Guainía,16,No alcanzan para cubrir los gastos mínimos,9,55.6039208
+2020,Guainía,16,Alcanzan para cubrir los gastos mínimos,6,41.5314288
+2020,Guainía,16,Cubren más que los gastos mínimos,0,2.86465043
+2020,Guaviare,30,No alcanzan para cubrir los gastos mínimos,14,47.0869624
+2020,Guaviare,30,Alcanzan para cubrir los gastos mínimos,15,49.4357933
+2020,Guaviare,30,Cubren más que los gastos mínimos,1,3.4772443
+2020,Huila,351,No alcanzan para cubrir los gastos mínimos,141,40.2176572
+2020,Huila,351,Alcanzan para cubrir los gastos mínimos,195,55.5462766
+2020,Huila,351,Cubren más que los gastos mínimos,15,4.23606613
+2020,La Guajira,296,No alcanzan para cubrir los gastos mínimos,211,71.3267729
+2020,La Guajira,296,Alcanzan para cubrir los gastos mínimos,80,26.9289142
+2020,La Guajira,296,Cubren más que los gastos mínimos,5,1.74431294
+2020,Magdalena,404,No alcanzan para cubrir los gastos mínimos,259,64.2025481
+2020,Magdalena,404,Alcanzan para cubrir los gastos mínimos,128,31.6050766
+2020,Magdalena,404,Cubren más que los gastos mínimos,17,4.19237525
+2020,Meta,364,No alcanzan para cubrir los gastos mínimos,112,30.790729
+2020,Meta,364,Alcanzan para cubrir los gastos mínimos,229,62.848499
+2020,Meta,364,Cubren más que los gastos mínimos,23,6.36077203
+2020,Nariño,534,No alcanzan para cubrir los gastos mínimos,285,53.4213131
+2020,Nariño,534,Alcanzan para cubrir los gastos mínimos,231,43.2960214
+2020,Nariño,534,Cubren más que los gastos mínimos,18,3.2826655
+2020,Norte de Santander,508,No alcanzan para cubrir los gastos mínimos,195,38.4560464
+2020,Norte de Santander,508,Alcanzan para cubrir los gastos mínimos,287,56.510274
+2020,Norte de Santander,508,Cubren más que los gastos mínimos,26,5.03367957
+2020,Putumayo,125,No alcanzan para cubrir los gastos mínimos,53,42.2593624
+2020,Putumayo,125,Alcanzan para cubrir los gastos mínimos,69,55.7413241
+2020,Putumayo,125,Cubren más que los gastos mínimos,2,1.99931353
+2020,Quindío,210,No alcanzan para cubrir los gastos mínimos,66,31.3833735
+2020,Quindío,210,Alcanzan para cubrir los gastos mínimos,121,57.5382164
+2020,Quindío,210,Cubren más que los gastos mínimos,23,11.0784101
+2020,Risaralda,349,No alcanzan para cubrir los gastos mínimos,126,36.1805601
+2020,Risaralda,349,Alcanzan para cubrir los gastos mínimos,187,53.7092601
+2020,Risaralda,349,Cubren más que los gastos mínimos,35,10.1101799
+2020,San Andrés,16,No alcanzan para cubrir los gastos mínimos,7,40.9550772
+2020,San Andrés,16,Alcanzan para cubrir los gastos mínimos,8,52.3888579
+2020,San Andrés,16,Cubren más que los gastos mínimos,1,6.65606486
+2020,Santander,755,No alcanzan para cubrir los gastos mínimos,273,36.1600644
+2020,Santander,755,Alcanzan para cubrir los gastos mínimos,424,56.0991339
+2020,Santander,755,Cubren más que los gastos mínimos,58,7.74080174
+2020,Sucre,274,No alcanzan para cubrir los gastos mínimos,177,64.6988545
+2020,Sucre,274,Alcanzan para cubrir los gastos mínimos,92,33.496684
+2020,Sucre,274,Cubren más que los gastos mínimos,5,1.80446148
+2020,Tolima,467,No alcanzan para cubrir los gastos mínimos,219,46.8208502
+2020,Tolima,467,Alcanzan para cubrir los gastos mínimos,233,49.9228855
+2020,Tolima,467,Cubren más que los gastos mínimos,15,3.25626431
+2020,Valle,1551,No alcanzan para cubrir los gastos mínimos,533,34.3806057
+2020,Valle,1551,Alcanzan para cubrir los gastos mínimos,897,57.8476953
+2020,Valle,1551,Cubren más que los gastos mínimos,121,7.77169903
+2020,Vaupés,11,No alcanzan para cubrir los gastos mínimos,8,70.4470319
+2020,Vaupés,11,Alcanzan para cubrir los gastos mínimos,3,28.3962635
+2020,Vaupés,11,Cubren más que los gastos mínimos,0,1.1567046
+2020,Vichada,37,No alcanzan para cubrir los gastos mínimos,23,63.1865501
+2020,Vichada,37,Alcanzan para cubrir los gastos mínimos,13,34.8378355
+2020,Vichada,37,Cubren más que los gastos mínimos,1,1.97561432
+2021,Total nacional,17068,No alcanzan para cubrir los gastos mínimos,7115,41.688415
+2021,Total nacional,17068,Alcanzan para cubrir los gastos mínimos,8596,50.3627432
+2021,Total nacional,17068,Cubren más que los gastos mínimos,1357,7.94884187
+2021,Cabecera,13160,No alcanzan para cubrir los gastos mínimos,4823,36.6485692
+2021,Cabecera,13160,Alcanzan para cubrir los gastos mínimos,7050,53.5721889
+2021,Cabecera,13160,Cubren más que los gastos mínimos,1287,9.77924188
+2021,Centros poblados y rural disperso,3908,No alcanzan para cubrir los gastos mínimos,2292,58.6600284
+2021,Centros poblados y rural disperso,3908,Alcanzan para cubrir los gastos mínimos,1546,39.5549774
+2021,Centros poblados y rural disperso,3908,Cubren más que los gastos mínimos,70,1.78499426
+2021,Amazonas,21,No alcanzan para cubrir los gastos mínimos,9,41.0440173
+2021,Amazonas,21,Alcanzan para cubrir los gastos mínimos,12,55.2019098
+2021,Amazonas,21,Cubren más que los gastos mínimos,1,3.75407289
+2021,Antioquia,2328,No alcanzan para cubrir los gastos mínimos,753,32.3503744
+2021,Antioquia,2328,Alcanzan para cubrir los gastos mínimos,1365,58.6369866
+2021,Antioquia,2328,Cubren más que los gastos mínimos,210,9.01263906
+2021,Arauca,109,No alcanzan para cubrir los gastos mínimos,43,39.8529299
+2021,Arauca,109,Alcanzan para cubrir los gastos mínimos,62,56.9137276
+2021,Arauca,109,Cubren más que los gastos mínimos,4,3.23334241
+2021,Atlántico,754,No alcanzan para cubrir los gastos mínimos,357,47.3436578
+2021,Atlántico,754,Alcanzan para cubrir los gastos mínimos,325,43.0417341
+2021,Atlántico,754,Cubren más que los gastos mínimos,73,9.6146081
+2021,Bogotá D.C.,2865,No alcanzan para cubrir los gastos mínimos,778,27.1439127
+2021,Bogotá D.C.,2865,Alcanzan para cubrir los gastos mínimos,1636,57.1076939
+2021,Bogotá D.C.,2865,Cubren más que los gastos mínimos,451,15.7483934
+2021,Bolívar,656,No alcanzan para cubrir los gastos mínimos,393,59.923839
+2021,Bolívar,656,Alcanzan para cubrir los gastos mínimos,234,35.7415822
+2021,Bolívar,656,Cubren más que los gastos mínimos,28,4.33457875
+2021,Boyacá,433,No alcanzan para cubrir los gastos mínimos,183,42.3499554
+2021,Boyacá,433,Alcanzan para cubrir los gastos mínimos,231,53.3917106
+2021,Boyacá,433,Cubren más que los gastos mínimos,18,4.25833408
+2021,Caldas,355,No alcanzan para cubrir los gastos mínimos,116,32.7038623
+2021,Caldas,355,Alcanzan para cubrir los gastos mínimos,198,55.6449595
+2021,Caldas,355,Cubren más que los gastos mínimos,41,11.6511782
+2021,Caquetá,139,No alcanzan para cubrir los gastos mínimos,63,45.2448039
+2021,Caquetá,139,Alcanzan para cubrir los gastos mínimos,73,52.2345446
+2021,Caquetá,139,Cubren más que los gastos mínimos,4,2.52065144
+2021,Casanare,154,No alcanzan para cubrir los gastos mínimos,78,50.4402856
+2021,Casanare,154,Alcanzan para cubrir los gastos mínimos,69,44.9320212
+2021,Casanare,154,Cubren más que los gastos mínimos,7,4.6276932
+2021,Cauca,559,No alcanzan para cubrir los gastos mínimos,325,58.1310568
+2021,Cauca,559,Alcanzan para cubrir los gastos mínimos,220,39.2872634
+2021,Cauca,559,Cubren más que los gastos mínimos,14,2.58167982
+2021,Cesar,400,No alcanzan para cubrir los gastos mínimos,221,55.4049144
+2021,Cesar,400,Alcanzan para cubrir los gastos mínimos,170,42.4642551
+2021,Cesar,400,Cubren más que los gastos mínimos,9,2.13083054
+2021,Córdoba,589,No alcanzan para cubrir los gastos mínimos,387,65.7096841
+2021,Córdoba,589,Alcanzan para cubrir los gastos mínimos,178,30.3248578
+2021,Córdoba,589,Cubren más que los gastos mínimos,23,3.96545805
+2021,Cundinamarca,1190,No alcanzan para cubrir los gastos mínimos,419,35.2159686
+2021,Cundinamarca,1190,Alcanzan para cubrir los gastos mínimos,703,59.1016598
+2021,Cundinamarca,1190,Cubren más que los gastos mínimos,68,5.68237164
+2021,Chocó,172,No alcanzan para cubrir los gastos mínimos,114,66.4205105
+2021,Chocó,172,Alcanzan para cubrir los gastos mínimos,57,32.9381541
+2021,Chocó,172,Cubren más que los gastos mínimos,1,0.641335409
+2021,Guainía,15,No alcanzan para cubrir los gastos mínimos,8,54.5469456
+2021,Guainía,15,Alcanzan para cubrir los gastos mínimos,7,43.9593576
+2021,Guainía,15,Cubren más que los gastos mínimos,0,1.49369676
+2021,Guaviare,31,No alcanzan para cubrir los gastos mínimos,18,58.045643
+2021,Guaviare,31,Alcanzan para cubrir los gastos mínimos,12,40.308831
+2021,Guaviare,31,Cubren más que los gastos mínimos,1,1.64552606
+2021,Huila,366,No alcanzan para cubrir los gastos mínimos,148,40.5684686
+2021,Huila,366,Alcanzan para cubrir los gastos mínimos,203,55.583418
+2021,Huila,366,Cubren más que los gastos mínimos,14,3.8481134
+2021,La Guajira,295,No alcanzan para cubrir los gastos mínimos,213,72.1063163
+2021,La Guajira,295,Alcanzan para cubrir los gastos mínimos,77,26.0154745
+2021,La Guajira,295,Cubren más que los gastos mínimos,6,1.87820926
+2021,Magdalena,411,No alcanzan para cubrir los gastos mínimos,237,57.6998556
+2021,Magdalena,411,Alcanzan para cubrir los gastos mínimos,153,37.2559579
+2021,Magdalena,411,Cubren más que los gastos mínimos,21,5.04418656
+2021,Meta,370,No alcanzan para cubrir los gastos mínimos,161,43.5580693
+2021,Meta,370,Alcanzan para cubrir los gastos mínimos,189,51.0820316
+2021,Meta,370,Cubren más que los gastos mínimos,20,5.35989901
+2021,Nariño,577,No alcanzan para cubrir los gastos mínimos,291,50.4273652
+2021,Nariño,577,Alcanzan para cubrir los gastos mínimos,260,45.0294421
+2021,Nariño,577,Cubren más que los gastos mínimos,26,4.54319275
+2021,Norte de Santander,494,No alcanzan para cubrir los gastos mínimos,230,46.6590792
+2021,Norte de Santander,494,Alcanzan para cubrir los gastos mínimos,245,49.557147
+2021,Norte de Santander,494,Cubren más que los gastos mínimos,19,3.78377381
+2021,Putumayo,146,No alcanzan para cubrir los gastos mínimos,75,51.5506032
+2021,Putumayo,146,Alcanzan para cubrir los gastos mínimos,67,46.2015243
+2021,Putumayo,146,Cubren más que los gastos mínimos,3,2.24787248
+2021,Quindío,199,No alcanzan para cubrir los gastos mínimos,63,31.4420411
+2021,Quindío,199,Alcanzan para cubrir los gastos mínimos,107,53.7769839
+2021,Quindío,199,Cubren más que los gastos mínimos,29,14.7809751
+2021,Risaralda,333,No alcanzan para cubrir los gastos mínimos,89,26.6439337
+2021,Risaralda,333,Alcanzan para cubrir los gastos mínimos,214,64.2622165
+2021,Risaralda,333,Cubren más que los gastos mínimos,30,9.09384983
+2021,San Andrés,15,No alcanzan para cubrir los gastos mínimos,3,16.7844445
+2021,San Andrés,15,Alcanzan para cubrir los gastos mínimos,12,76.5368289
+2021,San Andrés,15,Cubren más que los gastos mínimos,1,6.6787266
+2021,Santander,769,No alcanzan para cubrir los gastos mínimos,301,39.1949898
+2021,Santander,769,Alcanzan para cubrir los gastos mínimos,401,52.1430594
+2021,Santander,769,Cubren más que los gastos mínimos,67,8.66195081
+2021,Sucre,278,No alcanzan para cubrir los gastos mínimos,184,66.1785693
+2021,Sucre,278,Alcanzan para cubrir los gastos mínimos,88,31.4637818
+2021,Sucre,278,Cubren más que los gastos mínimos,7,2.35764889
+2021,Tolima,480,No alcanzan para cubrir los gastos mínimos,241,50.3062069
+2021,Tolima,480,Alcanzan para cubrir los gastos mínimos,217,45.3290472
+2021,Tolima,480,Cubren más que los gastos mínimos,21,4.3647459
+2021,Valle,1511,No alcanzan para cubrir los gastos mínimos,572,37.8506825
+2021,Valle,1511,Alcanzan para cubrir los gastos mínimos,799,52.8568771
+2021,Valle,1511,Cubren más que los gastos mínimos,140,9.29244036
+2021,Vaupés,12,No alcanzan para cubrir los gastos mínimos,9,72.4195571
+2021,Vaupés,12,Alcanzan para cubrir los gastos mínimos,3,26.7450018
+2021,Vaupés,12,Cubren más que los gastos mínimos,0,0.835441096
+2021,Vichada,43,No alcanzan para cubrir los gastos mínimos,33,75.5191575
+2021,Vichada,43,Alcanzan para cubrir los gastos mínimos,10,23.2573842
+2021,Vichada,43,Cubren más que los gastos mínimos,1,1.22345835
+2022,Total nacional,17526,No alcanzan para cubrir los gastos mínimos,7749,44.21430505
+2022,Total nacional,17526,Alcanzan para cubrir los gastos mínimos,8485,48.41262787
+2022,Total nacional,17526,Cubren más que los gastos mínimos,1292,7.37306708
+2022,Cabecera,13554,No alcanzan para cubrir los gastos mínimos,5307,39.1574691
+2022,Cabecera,13554,Alcanzan para cubrir los gastos mínimos,7016,51.76103565
+2022,Cabecera,13554,Cubren más que los gastos mínimos,1231,9.08149525
+2022,Centros poblados y rural disperso,3972,No alcanzan para cubrir los gastos mínimos,2441,61.47098762
+2022,Centros poblados y rural disperso,3972,Alcanzan para cubrir los gastos mínimos,1469,36.98603409
+2022,Centros poblados y rural disperso,3972,Cubren más que los gastos mínimos,61,1.54297829
+2022,Amazonas,22,No alcanzan para cubrir los gastos mínimos,10,43.92296024
+2022,Amazonas,22,Alcanzan para cubrir los gastos mínimos,11,52.21385268
+2022,Amazonas,22,Cubren más que los gastos mínimos,1,3.86318707
+2022,Antioquia,2406,No alcanzan para cubrir los gastos mínimos,828,34.39653135
+2022,Antioquia,2406,Alcanzan para cubrir los gastos mínimos,1315,54.63873272
+2022,Antioquia,2406,Cubren más que los gastos mínimos,264,10.96473593
+2022,Arauca,113,No alcanzan para cubrir los gastos mínimos,54,48.01346732
+2022,Arauca,113,Alcanzan para cubrir los gastos mínimos,56,49.56288962
+2022,Arauca,113,Cubren más que los gastos mínimos,3,2.42364305
+2022,Atlántico,774,No alcanzan para cubrir los gastos mínimos,409,52.87376968
+2022,Atlántico,774,Alcanzan para cubrir los gastos mínimos,314,40.58921412
+2022,Atlántico,774,Cubren más que los gastos mínimos,51,6.5370162
+2022,Bogotá D.C.,2940,No alcanzan para cubrir los gastos mínimos,838,28.51433186
+2022,Bogotá D.C.,2940,Alcanzan para cubrir los gastos mínimos,1670,56.78704807
+2022,Bogotá D.C.,2940,Cubren más que los gastos mínimos,432,14.69862008
+2022,Bolívar,674,No alcanzan para cubrir los gastos mínimos,416,61.69098046
+2022,Bolívar,674,Alcanzan para cubrir los gastos mínimos,222,32.93511826
+2022,Bolívar,674,Cubren más que los gastos mínimos,36,5.37390127
+2022,Boyacá,441,No alcanzan para cubrir los gastos mínimos,162,36.83466718
+2022,Boyacá,441,Alcanzan para cubrir los gastos mínimos,261,59.31465456
+2022,Boyacá,441,Cubren más que los gastos mínimos,17,3.85067826
+2022,Caldas,363,No alcanzan para cubrir los gastos mínimos,117,32.20286806
+2022,Caldas,363,Alcanzan para cubrir los gastos mínimos,204,56.19183682
+2022,Caldas,363,Cubren más que los gastos mínimos,42,11.60529511
+2022,Caquetá,144,No alcanzan para cubrir los gastos mínimos,57,39.68758064
+2022,Caquetá,144,Alcanzan para cubrir los gastos mínimos,82,57.19455468
+2022,Caquetá,144,Cubren más que los gastos mínimos,4,3.11786468
+2022,Casanare,157,No alcanzan para cubrir los gastos mínimos,74,47.29747394
+2022,Casanare,157,Alcanzan para cubrir los gastos mínimos,77,48.7765478
+2022,Casanare,157,Cubren más que los gastos mínimos,6,3.92597826
+2022,Cauca,574,No alcanzan para cubrir los gastos mínimos,291,50.61785038
+2022,Cauca,574,Alcanzan para cubrir los gastos mínimos,267,46.38994105
+2022,Cauca,574,Cubren más que los gastos mínimos,17,2.99220857
+2022,Cesar,412,No alcanzan para cubrir los gastos mínimos,269,65.35955484
+2022,Cesar,412,Alcanzan para cubrir los gastos mínimos,130,31.53241285
+2022,Cesar,412,Cubren más que los gastos mínimos,13,3.10803231
+2022,Córdoba,603,No alcanzan para cubrir los gastos mínimos,399,66.21465846
+2022,Córdoba,603,Alcanzan para cubrir los gastos mínimos,190,31.54879783
+2022,Córdoba,603,Cubren más que los gastos mínimos,13,2.23654372
+2022,Cundinamarca,1244,No alcanzan para cubrir los gastos mínimos,586,47.09749905
+2022,Cundinamarca,1244,Alcanzan para cubrir los gastos mínimos,605,48.64788216
+2022,Cundinamarca,1244,Cubren más que los gastos mínimos,53,4.25461879
+2022,Chocó,176,No alcanzan para cubrir los gastos mínimos,121,68.34387087
+2022,Chocó,176,Alcanzan para cubrir los gastos mínimos,52,29.44281012
+2022,Chocó,176,Cubren más que los gastos mínimos,4,2.21331901
+2022,Guainía,15,No alcanzan para cubrir los gastos mínimos,7,45.99464677
+2022,Guainía,15,Alcanzan para cubrir los gastos mínimos,8,49.6001939
+2022,Guainía,15,Cubren más que los gastos mínimos,1,4.40515933
+2022,Guaviare,32,No alcanzan para cubrir los gastos mínimos,19,58.25770371
+2022,Guaviare,32,Alcanzan para cubrir los gastos mínimos,13,39.90540834
+2022,Guaviare,32,Cubren más que los gastos mínimos,1,1.83688795
+2022,Huila,374,No alcanzan para cubrir los gastos mínimos,197,52.57344288
+2022,Huila,374,Alcanzan para cubrir los gastos mínimos,165,44.1856533
+2022,Huila,374,Cubren más que los gastos mínimos,12,3.24090382
+2022,La Guajira,307,No alcanzan para cubrir los gastos mínimos,218,71.09197083
+2022,La Guajira,307,Alcanzan para cubrir los gastos mínimos,84,27.39059727
+2022,La Guajira,307,Cubren más que los gastos mínimos,5,1.5174319
+2022,Magdalena,422,No alcanzan para cubrir los gastos mínimos,228,54.03056893
+2022,Magdalena,422,Alcanzan para cubrir los gastos mínimos,184,43.66566213
+2022,Magdalena,422,Cubren más que los gastos mínimos,10,2.30376895
+2022,Meta,378,No alcanzan para cubrir los gastos mínimos,177,46.8368188
+2022,Meta,378,Alcanzan para cubrir los gastos mínimos,185,48.92309799
+2022,Meta,378,Cubren más que los gastos mínimos,16,4.24008321
+2022,Nariño,588,No alcanzan para cubrir los gastos mínimos,374,63.60214545
+2022,Nariño,588,Alcanzan para cubrir los gastos mínimos,192,32.69935959
+2022,Nariño,588,Cubren más que los gastos mínimos,22,3.69849496
+2022,Norte de Santander,504,No alcanzan para cubrir los gastos mínimos,207,41.03154596
+2022,Norte de Santander,504,Alcanzan para cubrir los gastos mínimos,274,54.35160478
+2022,Norte de Santander,504,Cubren más que los gastos mínimos,23,4.61684926
+2022,Putumayo,151,No alcanzan para cubrir los gastos mínimos,66,43.60478395
+2022,Putumayo,151,Alcanzan para cubrir los gastos mínimos,81,54.0315666
+2022,Putumayo,151,Cubren más que los gastos mínimos,4,2.36364945
+2022,Quindío,204,No alcanzan para cubrir los gastos mínimos,73,35.55112676
+2022,Quindío,204,Alcanzan para cubrir los gastos mínimos,121,59.3116191
+2022,Quindío,204,Cubren más que los gastos mínimos,10,5.13725414
+2022,Risaralda,341,No alcanzan para cubrir los gastos mínimos,114,33.51529845
+2022,Risaralda,341,Alcanzan para cubrir los gastos mínimos,192,56.37386984
+2022,Risaralda,341,Cubren más que los gastos mínimos,34,10.11083171
+2022,San Andrés,16,No alcanzan para cubrir los gastos mínimos,3,17.97723318
+2022,San Andrés,16,Alcanzan para cubrir los gastos mínimos,11,72.12487037
+2022,San Andrés,16,Cubren más que los gastos mínimos,2,9.89789645
+2022,Santander,786,No alcanzan para cubrir los gastos mínimos,338,43.06574297
+2022,Santander,786,Alcanzan para cubrir los gastos mínimos,400,50.95247095
+2022,Santander,786,Cubren más que los gastos mínimos,47,5.98178607
+2022,Sucre,285,No alcanzan para cubrir los gastos mínimos,205,72.00647636
+2022,Sucre,285,Alcanzan para cubrir los gastos mínimos,69,24.25427737
+2022,Sucre,285,Cubren más que los gastos mínimos,11,3.73924627
+2022,Tolima,488,No alcanzan para cubrir los gastos mínimos,207,42.37450874
+2022,Tolima,488,Alcanzan para cubrir los gastos mínimos,256,52.44915753
+2022,Tolima,488,Cubren más que los gastos mínimos,25,5.17633373
+2022,Valle,1544,No alcanzan para cubrir los gastos mínimos,659,42.69283813
+2022,Valle,1544,Alcanzan para cubrir los gastos mínimos,772,49.98587604
+2022,Valle,1544,Cubren más que los gastos mínimos,113,7.32128584
+2022,Vaupés,14,No alcanzan para cubrir los gastos mínimos,9,63.83011084
+2022,Vaupés,14,Alcanzan para cubrir los gastos mínimos,5,34.87063139
+2022,Vaupés,14,Cubren más que los gastos mínimos,0,1.29925777
+2022,Vichada,33,No alcanzan para cubrir los gastos mínimos,17,51.11914168
+2022,Vichada,33,Alcanzan para cubrir los gastos mínimos,16,46.91255907
+2022,Vichada,33,Cubren más que los gastos mínimos,1,1.96829926
+2023,Total nacional,18009,No alcanzan para cubrir los gastos mínimos,7176,39.84760876
+2023,Total nacional,18009,Alcanzan para cubrir los gastos mínimos,9406,52.22628108
+2023,Total nacional,18009,Cubren más que los gastos mínimos,1427,7.92611015
+2023,Cabecera,13952,No alcanzan para cubrir los gastos mínimos,4902,35.13240867
+2023,Cabecera,13952,Alcanzan para cubrir los gastos mínimos,7708,55.24240839
+2023,Cabecera,13952,Cubren más que los gastos mínimos,1343,9.62518294
+2023,Centros poblados y rural disperso,4057,No alcanzan para cubrir los gastos mínimos,2275,56.06322614
+2023,Centros poblados y rural disperso,4057,Alcanzan para cubrir los gastos mínimos,1698,41.85379098
+2023,Centros poblados y rural disperso,4057,Cubren más que los gastos mínimos,85,2.08298288
+2023,Amazonas,27,No alcanzan para cubrir los gastos mínimos,10,36.09400812
+2023,Amazonas,27,Alcanzan para cubrir los gastos mínimos,15,56.07181081
+2023,Amazonas,27,Cubren más que los gastos mínimos,2,7.83418107
+2023,Antioquia,2485,No alcanzan para cubrir los gastos mínimos,903,36.32375712
+2023,Antioquia,2485,Alcanzan para cubrir los gastos mínimos,1398,56.24446037
+2023,Antioquia,2485,Cubren más que los gastos mínimos,185,7.43178251
+2023,Arauca,114,No alcanzan para cubrir los gastos mínimos,51,45.10858598
+2023,Arauca,114,Alcanzan para cubrir los gastos mínimos,60,52.83060621
+2023,Arauca,114,Cubren más que los gastos mínimos,2,2.06080781
+2023,Atlántico,795,No alcanzan para cubrir los gastos mínimos,389,48.85631289
+2023,Atlántico,795,Alcanzan para cubrir los gastos mínimos,335,42.18353732
+2023,Atlántico,795,Cubren más que los gastos mínimos,71,8.96014979
+2023,Bogotá D.C.,3018,No alcanzan para cubrir los gastos mínimos,748,24.7820417
+2023,Bogotá D.C.,3018,Alcanzan para cubrir los gastos mínimos,1761,58.36176405
+2023,Bogotá D.C.,3018,Cubren más que los gastos mínimos,509,16.85619425
+2023,Bolívar,692,No alcanzan para cubrir los gastos mínimos,324,46.79948613
+2023,Bolívar,692,Alcanzan para cubrir los gastos mínimos,325,47.02023956
+2023,Bolívar,692,Cubren más que los gastos mínimos,43,6.18027431
+2023,Boyacá,448,No alcanzan para cubrir los gastos mínimos,169,37.67576332
+2023,Boyacá,448,Alcanzan para cubrir los gastos mínimos,259,57.90115733
+2023,Boyacá,448,Cubren más que los gastos mínimos,20,4.42307935
+2023,Caldas,371,No alcanzan para cubrir los gastos mínimos,108,28.98372254
+2023,Caldas,371,Alcanzan para cubrir los gastos mínimos,220,59.28715668
+2023,Caldas,371,Cubren más que los gastos mínimos,44,11.72912077
+2023,Caquetá,148,No alcanzan para cubrir los gastos mínimos,59,40.20209436
+2023,Caquetá,148,Alcanzan para cubrir los gastos mínimos,84,56.68081254
+2023,Caquetá,148,Cubren más que los gastos mínimos,5,3.1170931
+2023,Casanare,161,No alcanzan para cubrir los gastos mínimos,70,43.4501457
+2023,Casanare,161,Alcanzan para cubrir los gastos mínimos,83,51.89159028
+2023,Casanare,161,Cubren más que los gastos mínimos,7,4.65826402
+2023,Cauca,590,No alcanzan para cubrir los gastos mínimos,366,62.1167246
+2023,Cauca,590,Alcanzan para cubrir los gastos mínimos,208,35.19666464
+2023,Cauca,590,Cubren más que los gastos mínimos,16,2.68661075
+2023,Cesar,425,No alcanzan para cubrir los gastos mínimos,226,53.18463605
+2023,Cesar,425,Alcanzan para cubrir los gastos mínimos,186,43.6884506
+2023,Cesar,425,Cubren más que los gastos mínimos,13,3.12691335
+2023,Córdoba,618,No alcanzan para cubrir los gastos mínimos,292,47.31086202
+2023,Córdoba,618,Alcanzan para cubrir los gastos mínimos,300,48.62981492
+2023,Córdoba,618,Cubren más que los gastos mínimos,25,4.05932305
+2023,Cundinamarca,1299,No alcanzan para cubrir los gastos mínimos,456,35.09576135
+2023,Cundinamarca,1299,Alcanzan para cubrir los gastos mínimos,734,56.49458121
+2023,Cundinamarca,1299,Cubren más que los gastos mínimos,109,8.40965745
+2023,Chocó,181,No alcanzan para cubrir los gastos mínimos,95,52.53725919
+2023,Chocó,181,Alcanzan para cubrir los gastos mínimos,81,44.51762976
+2023,Chocó,181,Cubren más que los gastos mínimos,5,2.94511105
+2023,Guainía,15,No alcanzan para cubrir los gastos mínimos,8,55.77261268
+2023,Guainía,15,Alcanzan para cubrir los gastos mínimos,6,39.95606058
+2023,Guainía,15,Cubren más que los gastos mínimos,1,4.27132674
+2023,Guaviare,30,No alcanzan para cubrir los gastos mínimos,15,50.91544174
+2023,Guaviare,30,Alcanzan para cubrir los gastos mínimos,14,46.50930946
+2023,Guaviare,30,Cubren más que los gastos mínimos,1,2.5752488
+2023,Huila,382,No alcanzan para cubrir los gastos mínimos,196,51.34513725
+2023,Huila,382,Alcanzan para cubrir los gastos mínimos,173,45.1706841
+2023,Huila,382,Cubren más que los gastos mínimos,13,3.48417865
+2023,La Guajira,318,No alcanzan para cubrir los gastos mínimos,211,66.30269745
+2023,La Guajira,318,Alcanzan para cubrir los gastos mínimos,103,32.29916827
+2023,La Guajira,318,Cubren más que los gastos mínimos,4,1.39813428
+2023,Magdalena,432,No alcanzan para cubrir los gastos mínimos,246,56.94537303
+2023,Magdalena,432,Alcanzan para cubrir los gastos mínimos,171,39.55793457
+2023,Magdalena,432,Cubren más que los gastos mínimos,15,3.4966924
+2023,Meta,386,No alcanzan para cubrir los gastos mínimos,180,46.47270025
+2023,Meta,386,Alcanzan para cubrir los gastos mínimos,191,49.53957763
+2023,Meta,386,Cubren más que los gastos mínimos,15,3.98772212
+2023,Nariño,600,No alcanzan para cubrir los gastos mínimos,319,53.15681802
+2023,Nariño,600,Alcanzan para cubrir los gastos mínimos,264,44.09535751
+2023,Nariño,600,Cubren más que los gastos mínimos,16,2.74782447
+2023,Norte de Santander,514,No alcanzan para cubrir los gastos mínimos,209,40.66552045
+2023,Norte de Santander,514,Alcanzan para cubrir los gastos mínimos,287,55.82398772
+2023,Norte de Santander,514,Cubren más que los gastos mínimos,18,3.51049183
+2023,Putumayo,156,No alcanzan para cubrir los gastos mínimos,59,37.73709198
+2023,Putumayo,156,Alcanzan para cubrir los gastos mínimos,92,59.39048621
+2023,Putumayo,156,Cubren más que los gastos mínimos,4,2.87242181
+2023,Quindío,209,No alcanzan para cubrir los gastos mínimos,88,42.09165314
+2023,Quindío,209,Alcanzan para cubrir los gastos mínimos,105,50.01849212
+2023,Quindío,209,Cubren más que los gastos mínimos,17,7.88985475
+2023,Risaralda,349,No alcanzan para cubrir los gastos mínimos,98,28.14767989
+2023,Risaralda,349,Alcanzan para cubrir los gastos mínimos,226,64.6106248
+2023,Risaralda,349,Cubren más que los gastos mínimos,25,7.24169532
+2023,San Andrés,16,No alcanzan para cubrir los gastos mínimos,3,19.35845604
+2023,San Andrés,16,Alcanzan para cubrir los gastos mínimos,12,74.71139348
+2023,San Andrés,16,Cubren más que los gastos mínimos,1,5.93015048
+2023,Santander,803,No alcanzan para cubrir los gastos mínimos,257,31.98888826
+2023,Santander,803,Alcanzan para cubrir los gastos mínimos,485,60.41318234
+2023,Santander,803,Cubren más que los gastos mínimos,61,7.59792939
+2023,Sucre,292,No alcanzan para cubrir los gastos mínimos,186,63.61546745
+2023,Sucre,292,Alcanzan para cubrir los gastos mínimos,101,34.72785657
+2023,Sucre,292,Cubren más que los gastos mínimos,5,1.65667597
+2023,Tolima,496,No alcanzan para cubrir los gastos mínimos,255,51.40156302
+2023,Tolima,496,Alcanzan para cubrir los gastos mínimos,218,43.88816808
+2023,Tolima,496,Cubren más que los gastos mínimos,23,4.7102689
+2023,Valle,1577,No alcanzan para cubrir los gastos mínimos,543,34.42813013
+2023,Valle,1577,Alcanzan para cubrir los gastos mínimos,884,56.04939992
+2023,Valle,1577,Cubren más que los gastos mínimos,150,9.52246995
+2023,Vaupés,15,No alcanzan para cubrir los gastos mínimos,11,70.41525677
+2023,Vaupés,15,Alcanzan para cubrir los gastos mínimos,4,28.62780534
+2023,Vaupés,15,Cubren más que los gastos mínimos,0,0.9569379
+2023,Vichada,49,No alcanzan para cubrir los gastos mínimos,28,57.94755049
+2023,Vichada,49,Alcanzan para cubrir los gastos mínimos,20,41.22347715
+2023,Vichada,49,Cubren más que los gastos mínimos,0,0.82897236
+2024,Total nacional,18489,No alcanzan para cubrir los gastos mínimos,6566,35.5127451
+2024,Total nacional,18489,Alcanzan para cubrir los gastos mínimos,10454,56.53930575
+2024,Total nacional,18489,Cubren más que los gastos mínimos,1470,7.94794915
+2024,Cabecera,14343,No alcanzan para cubrir los gastos mínimos,4411,30.75101951
+2024,Cabecera,14343,Alcanzan para cubrir los gastos mínimos,8550,59.60880792
+2024,Cabecera,14343,Cubren más que los gastos mínimos,1383,9.64017257
+2024,Centros poblados y rural disperso,4146,No alcanzan para cubrir los gastos mínimos,2155,51.98441923
+2024,Centros poblados y rural disperso,4146,Alcanzan para cubrir los gastos mínimos,1904,45.92133994
+2024,Centros poblados y rural disperso,4146,Cubren más que los gastos mínimos,87,2.09424083
+2024,Amazonas,27,No alcanzan para cubrir los gastos mínimos,8,31.06471288
+2024,Amazonas,27,Alcanzan para cubrir los gastos mínimos,17,61.88364752
+2024,Amazonas,27,Cubren más que los gastos mínimos,2,7.0516396
+2024,Antioquia,2563,No alcanzan para cubrir los gastos mínimos,909,35.47854575
+2024,Antioquia,2563,Alcanzan para cubrir los gastos mínimos,1430,55.78379838
+2024,Antioquia,2563,Cubren más que los gastos mínimos,224,8.73765588
+2024,Arauca,125,No alcanzan para cubrir los gastos mínimos,34,27.05620604
+2024,Arauca,125,Alcanzan para cubrir los gastos mínimos,86,69.02458907
+2024,Arauca,125,Cubren más que los gastos mínimos,5,3.91920489
+2024,Atlántico,817,No alcanzan para cubrir los gastos mínimos,407,49.84788236
+2024,Atlántico,817,Alcanzan para cubrir los gastos mínimos,368,44.98759743
+2024,Atlántico,817,Cubren más que los gastos mínimos,42,5.16452021
+2024,Bogotá D.C.,3098,No alcanzan para cubrir los gastos mínimos,513,16.56520116
+2024,Bogotá D.C.,3098,Alcanzan para cubrir los gastos mínimos,2162,69.78188336
+2024,Bogotá D.C.,3098,Cubren más que los gastos mínimos,423,13.65291548
+2024,Bolívar,710,No alcanzan para cubrir los gastos mínimos,273,38.45522557
+2024,Bolívar,710,Alcanzan para cubrir los gastos mínimos,396,55.76119564
+2024,Bolívar,710,Cubren más que los gastos mínimos,41,5.7835788
+2024,Boyacá,455,No alcanzan para cubrir los gastos mínimos,148,32.39521761
+2024,Boyacá,455,Alcanzan para cubrir los gastos mínimos,287,63.09514933
+2024,Boyacá,455,Cubren más que los gastos mínimos,21,4.50963306
+2024,Caldas,380,No alcanzan para cubrir los gastos mínimos,107,28.24646008
+2024,Caldas,380,Alcanzan para cubrir los gastos mínimos,234,61.57757516
+2024,Caldas,380,Cubren más que los gastos mínimos,39,10.17596476
+2024,Caquetá,153,No alcanzan para cubrir los gastos mínimos,68,44.52498887
+2024,Caquetá,153,Alcanzan para cubrir los gastos mínimos,77,50.56428403
+2024,Caquetá,153,Cubren más que los gastos mínimos,8,4.9107271
+2024,Casanare,165,No alcanzan para cubrir los gastos mínimos,76,45.8371635
+2024,Casanare,165,Alcanzan para cubrir los gastos mínimos,82,49.85237269
+2024,Casanare,165,Cubren más que los gastos mínimos,7,4.31046381
+2024,Cauca,604,No alcanzan para cubrir los gastos mínimos,253,41.83142529
+2024,Cauca,604,Alcanzan para cubrir los gastos mínimos,331,54.83678507
+2024,Cauca,604,Cubren más que los gastos mínimos,20,3.33178964
+2024,Cesar,438,No alcanzan para cubrir los gastos mínimos,200,45.60645885
+2024,Cesar,438,Alcanzan para cubrir los gastos mínimos,223,50.84448753
+2024,Cesar,438,Cubren más que los gastos mínimos,16,3.54905362
+2024,Córdoba,632,No alcanzan para cubrir los gastos mínimos,407,64.45094311
+2024,Córdoba,632,Alcanzan para cubrir los gastos mínimos,213,33.70780492
+2024,Córdoba,632,Cubren más que los gastos mínimos,12,1.84125196
+2024,Cundinamarca,1355,No alcanzan para cubrir los gastos mínimos,464,34.2581675
+2024,Cundinamarca,1355,Alcanzan para cubrir los gastos mínimos,784,57.85083262
+2024,Cundinamarca,1355,Cubren más que los gastos mínimos,107,7.89099988
+2024,Chocó,185,No alcanzan para cubrir los gastos mínimos,105,56.54504269
+2024,Chocó,185,Alcanzan para cubrir los gastos mínimos,78,42.15568564
+2024,Chocó,185,Cubren más que los gastos mínimos,2,1.29927167
+2024,Guainía,17,No alcanzan para cubrir los gastos mínimos,8,49.46369775
+2024,Guainía,17,Alcanzan para cubrir los gastos mínimos,8,47.44983279
+2024,Guainía,17,Cubren más que los gastos mínimos,1,3.08646947
+2024,Guaviare,35,No alcanzan para cubrir los gastos mínimos,18,52.21508098
+2024,Guaviare,35,Alcanzan para cubrir los gastos mínimos,15,42.10656988
+2024,Guaviare,35,Cubren más que los gastos mínimos,2,5.67834914
+2024,Huila,390,No alcanzan para cubrir los gastos mínimos,166,42.60252701
+2024,Huila,390,Alcanzan para cubrir los gastos mínimos,209,53.68589121
+2024,Huila,390,Cubren más que los gastos mínimos,14,3.71158178
+2024,La Guajira,329,No alcanzan para cubrir los gastos mínimos,217,66.00571042
+2024,La Guajira,329,Alcanzan para cubrir los gastos mínimos,106,32.1888208
+2024,La Guajira,329,Cubren más que los gastos mínimos,6,1.80546878
+2024,Magdalena,442,No alcanzan para cubrir los gastos mínimos,213,48.12626242
+2024,Magdalena,442,Alcanzan para cubrir los gastos mínimos,208,47.05576404
+2024,Magdalena,442,Cubren más que los gastos mínimos,21,4.81797353
+2024,Meta,395,No alcanzan para cubrir los gastos mínimos,96,24.2042497
+2024,Meta,395,Alcanzan para cubrir los gastos mínimos,274,69.33061005
+2024,Meta,395,Cubren más que los gastos mínimos,26,6.46514025
+2024,Nariño,611,No alcanzan para cubrir los gastos mínimos,339,55.44367038
+2024,Nariño,611,Alcanzan para cubrir los gastos mínimos,252,41.31365935
+2024,Nariño,611,Cubren más que los gastos mínimos,20,3.24267027
+2024,Norte de Santander,524,No alcanzan para cubrir los gastos mínimos,171,32.60283693
+2024,Norte de Santander,524,Alcanzan para cubrir los gastos mínimos,314,59.91961349
+2024,Norte de Santander,524,Cubren más que los gastos mínimos,39,7.47754958
+2024,Putumayo,161,No alcanzan para cubrir los gastos mínimos,52,32.51735393
+2024,Putumayo,161,Alcanzan para cubrir los gastos mínimos,105,65.39085543
+2024,Putumayo,161,Cubren más que los gastos mínimos,3,2.09179064
+2024,Quindío,215,No alcanzan para cubrir los gastos mínimos,74,34.35335889
+2024,Quindío,215,Alcanzan para cubrir los gastos mínimos,119,55.671853
+2024,Quindío,215,Cubren más que los gastos mínimos,21,9.97478811
+2024,Risaralda,357,No alcanzan para cubrir los gastos mínimos,95,26.58656654
+2024,Risaralda,357,Alcanzan para cubrir los gastos mínimos,218,61.12748983
+2024,Risaralda,357,Cubren más que los gastos mínimos,44,12.28594363
+2024,San Andrés,17,No alcanzan para cubrir los gastos mínimos,4,26.73385339
+2024,San Andrés,17,Alcanzan para cubrir los gastos mínimos,11,63.46253249
+2024,San Andrés,17,Cubren más que los gastos mínimos,2,9.80361412
+2024,Santander,821,No alcanzan para cubrir los gastos mínimos,206,25.02183732
+2024,Santander,821,Alcanzan para cubrir los gastos mínimos,522,63.50277502
+2024,Santander,821,Cubren más que los gastos mínimos,94,11.47538767
+2024,Sucre,299,No alcanzan para cubrir los gastos mínimos,194,65.01136144
+2024,Sucre,299,Alcanzan para cubrir los gastos mínimos,98,32.67711573
+2024,Sucre,299,Cubren más que los gastos mínimos,7,2.31152283
+2024,Tolima,504,No alcanzan para cubrir los gastos mínimos,188,37.370373
+2024,Tolima,504,Alcanzan para cubrir los gastos mínimos,260,51.69079661
+2024,Tolima,504,Cubren más que los gastos mínimos,55,10.9388304
+2024,Valle,1610,No alcanzan para cubrir los gastos mínimos,518,32.16154508
+2024,Valle,1610,Alcanzan para cubrir los gastos mínimos,946,58.74728187
+2024,Valle,1610,Cubren más que los gastos mínimos,146,9.09117305
+2024,Vaupés,15,No alcanzan para cubrir los gastos mínimos,11,70.0640093
+2024,Vaupés,15,Alcanzan para cubrir los gastos mínimos,4,29.30244367
+2024,Vaupés,15,Cubren más que los gastos mínimos,0,0.63354703
+2024,Vichada,41,No alcanzan para cubrir los gastos mínimos,24,59.06681566
+2024,Vichada,41,Alcanzan para cubrir los gastos mínimos,16,40.05806508
+2024,Vichada,41,Cubren más que los gastos mínimos,0,0.87511925
+2025,Total nacional,18952,No alcanzan para cubrir los gastos mínimos,5941,31.34963459
+2025,Total nacional,18952,Alcanzan para cubrir los gastos mínimos,11561,60.99880386
+2025,Total nacional,18952,Cubren más que los gastos mínimos,1450,7.65156155
+2025,Cabecera,14746,No alcanzan para cubrir los gastos mínimos,3928,26.64072599
+2025,Cabecera,14746,Alcanzan para cubrir los gastos mínimos,9481,64.29629511
+2025,Cabecera,14746,Cubren más que los gastos mínimos,1336,9.0629789
+2025,Centros poblados y rural disperso,4207,No alcanzan para cubrir los gastos mínimos,2013,47.85604435
+2025,Centros poblados y rural disperso,4207,Alcanzan para cubrir los gastos mínimos,2080,49.43991698
+2025,Centros poblados y rural disperso,4207,Cubren más que los gastos mínimos,114,2.70403867
+2025,Amazonas,29,No alcanzan para cubrir los gastos mínimos,8,29.09823526
+2025,Amazonas,29,Alcanzan para cubrir los gastos mínimos,18,64.19699671
+2025,Amazonas,29,Cubren más que los gastos mínimos,2,6.70476803
+2025,Antioquia,2642,No alcanzan para cubrir los gastos mínimos,672,25.44056767
+2025,Antioquia,2642,Alcanzan para cubrir los gastos mínimos,1737,65.72679384
+2025,Antioquia,2642,Cubren más que los gastos mínimos,233,8.83263849
+2025,Arauca,122,No alcanzan para cubrir los gastos mínimos,26,21.39406672
+2025,Arauca,122,Alcanzan para cubrir los gastos mínimos,88,72.63381108
+2025,Arauca,122,Cubren más que los gastos mínimos,7,5.9721222
+2025,Atlántico,838,No alcanzan para cubrir los gastos mínimos,341,40.71359104
+2025,Atlántico,838,Alcanzan para cubrir los gastos mínimos,438,52.24321625
+2025,Atlántico,838,Cubren más que los gastos mínimos,59,7.04319271
+2025,Bogotá D.C.,3178,No alcanzan para cubrir los gastos mínimos,584,18.36838541
+2025,Bogotá D.C.,3178,Alcanzan para cubrir los gastos mínimos,2187,68.82461779
+2025,Bogotá D.C.,3178,Cubren más que los gastos mínimos,407,12.80699681
+2025,Bolívar,728,No alcanzan para cubrir los gastos mínimos,250,34.31671362
+2025,Bolívar,728,Alcanzan para cubrir los gastos mínimos,436,59.85265239
+2025,Bolívar,728,Cubren más que los gastos mínimos,42,5.83063399
+2025,Boyacá,464,No alcanzan para cubrir los gastos mínimos,118,25.50469216
+2025,Boyacá,464,Alcanzan para cubrir los gastos mínimos,319,68.84151438
+2025,Boyacá,464,Cubren más que los gastos mínimos,26,5.65379346
+2025,Caldas,388,No alcanzan para cubrir los gastos mínimos,48,12.37341905
+2025,Caldas,388,Alcanzan para cubrir los gastos mínimos,280,72.27323325
+2025,Caldas,388,Cubren más que los gastos mínimos,60,15.3533477
+2025,Caquetá,157,No alcanzan para cubrir los gastos mínimos,72,45.91769408
+2025,Caquetá,157,Alcanzan para cubrir los gastos mínimos,77,49.01395361
+2025,Caquetá,157,Cubren más que los gastos mínimos,8,5.06835231
+2025,Casanare,169,No alcanzan para cubrir los gastos mínimos,43,25.30203857
+2025,Casanare,169,Alcanzan para cubrir los gastos mínimos,120,71.09885294
+2025,Casanare,169,Cubren más que los gastos mínimos,6,3.59910849
+2025,Cauca,621,No alcanzan para cubrir los gastos mínimos,316,50.98436285
+2025,Cauca,621,Alcanzan para cubrir los gastos mínimos,289,46.57308159
+2025,Cauca,621,Cubren más que los gastos mínimos,15,2.44255556
+2025,Cesar,451,No alcanzan para cubrir los gastos mínimos,222,49.33249829
+2025,Cesar,451,Alcanzan para cubrir los gastos mínimos,205,45.51077742
+2025,Cesar,451,Cubren más que los gastos mínimos,23,5.15672429
+2025,Córdoba,647,No alcanzan para cubrir los gastos mínimos,339,52.3869069
+2025,Córdoba,647,Alcanzan para cubrir los gastos mínimos,288,44.52189231
+2025,Córdoba,647,Cubren más que los gastos mínimos,20,3.09120079
+2025,Cundinamarca,1409,No alcanzan para cubrir los gastos mínimos,317,22.4915323
+2025,Cundinamarca,1409,Alcanzan para cubrir los gastos mínimos,1003,71.16758218
+2025,Cundinamarca,1409,Cubren más que los gastos mínimos,89,6.34088552
+2025,Chocó,190,No alcanzan para cubrir los gastos mínimos,103,54.07742524
+2025,Chocó,190,Alcanzan para cubrir los gastos mínimos,83,43.88784332
+2025,Chocó,190,Cubren más que los gastos mínimos,4,2.03473143
+2025,Guainía,15,No alcanzan para cubrir los gastos mínimos,6,41.76831954
+2025,Guainía,15,Alcanzan para cubrir los gastos mínimos,8,52.0948593
+2025,Guainía,15,Cubren más que los gastos mínimos,1,6.13682117
+2025,Guaviare,32,No alcanzan para cubrir los gastos mínimos,15,45.63222832
+2025,Guaviare,32,Alcanzan para cubrir los gastos mínimos,16,50.63476047
+2025,Guaviare,32,Cubren más que los gastos mínimos,1,3.73301121
+2025,Huila,399,No alcanzan para cubrir los gastos mínimos,202,50.56145299
+2025,Huila,399,Alcanzan para cubrir los gastos mínimos,186,46.63900291
+2025,Huila,399,Cubren más que los gastos mínimos,11,2.7995441
+2025,La Guajira,341,No alcanzan para cubrir los gastos mínimos,250,73.25140243
+2025,La Guajira,341,Alcanzan para cubrir los gastos mínimos,87,25.51750394
+2025,La Guajira,341,Cubren más que los gastos mínimos,4,1.23109363
+2025,Magdalena,452,No alcanzan para cubrir los gastos mínimos,214,47.29825331
+2025,Magdalena,452,Alcanzan para cubrir los gastos mínimos,229,50.58843582
+2025,Magdalena,452,Cubren más que los gastos mínimos,10,2.11331086
+2025,Meta,403,No alcanzan para cubrir los gastos mínimos,107,26.5935605
+2025,Meta,403,Alcanzan para cubrir los gastos mínimos,284,70.33620504
+2025,Meta,403,Cubren más que los gastos mínimos,12,3.07023447
+2025,Nariño,623,No alcanzan para cubrir los gastos mínimos,310,49.7327672
+2025,Nariño,623,Alcanzan para cubrir los gastos mínimos,283,45.45043494
+2025,Nariño,623,Cubren más que los gastos mínimos,30,4.81679787
+2025,Norte de Santander,534,No alcanzan para cubrir los gastos mínimos,213,39.84622979
+2025,Norte de Santander,534,Alcanzan para cubrir los gastos mínimos,281,52.6027193
+2025,Norte de Santander,534,Cubren más que los gastos mínimos,40,7.55105091
+2025,Putumayo,167,No alcanzan para cubrir los gastos mínimos,52,31.19482876
+2025,Putumayo,167,Alcanzan para cubrir los gastos mínimos,108,64.89187413
+2025,Putumayo,167,Cubren más que los gastos mínimos,7,3.91329712
+2025,Quindío,220,No alcanzan para cubrir los gastos mínimos,55,25.24354721
+2025,Quindío,220,Alcanzan para cubrir los gastos mínimos,139,63.16836301
+2025,Quindío,220,Cubren más que los gastos mínimos,25,11.58808978
+2025,Risaralda,365,No alcanzan para cubrir los gastos mínimos,64,17.61996428
+2025,Risaralda,365,Alcanzan para cubrir los gastos mínimos,266,72.97189338
+2025,Risaralda,365,Cubren más que los gastos mínimos,34,9.40814234
+2025,San Andrés,17,No alcanzan para cubrir los gastos mínimos,1,7.30804103
+2025,San Andrés,17,Alcanzan para cubrir los gastos mínimos,15,87.54633799
+2025,San Andrés,17,Cubren más que los gastos mínimos,1,5.14562097
+2025,Santander,839,No alcanzan para cubrir los gastos mínimos,143,17.1041566
+2025,Santander,839,Alcanzan para cubrir los gastos mínimos,580,69.10638419
+2025,Santander,839,Cubren más que los gastos mínimos,116,13.78945921
+2025,Sucre,306,No alcanzan para cubrir los gastos mínimos,191,62.37846621
+2025,Sucre,306,Alcanzan para cubrir los gastos mínimos,105,34.25687128
+2025,Sucre,306,Cubren más que los gastos mínimos,10,3.36466251
+2025,Tolima,512,No alcanzan para cubrir los gastos mínimos,172,33.62778623
+2025,Tolima,512,Alcanzan para cubrir los gastos mínimos,288,56.25387294
+2025,Tolima,512,Cubren más que los gastos mínimos,52,10.11834083
+2025,Valle,1645,No alcanzan para cubrir los gastos mínimos,454,27.58545107
+2025,Valle,1645,Alcanzan para cubrir los gastos mínimos,1099,66.81398063
+2025,Valle,1645,Cubren más que los gastos mínimos,92,5.6005683
+2025,Vaupés,15,No alcanzan para cubrir los gastos mínimos,7,48.73375851
+2025,Vaupés,15,Alcanzan para cubrir los gastos mínimos,7,48.12461179
+2025,Vaupés,15,Cubren más que los gastos mínimos,0,3.1416297
+2025,Vichada,35,No alcanzan para cubrir los gastos mínimos,24,69.42374812
+2025,Vichada,35,Alcanzan para cubrir los gastos mínimos,10,29.62389602
+2025,Vichada,35,Cubren más que los gastos mínimos,0,0.95235586
